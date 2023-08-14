@@ -1,0 +1,21 @@
+                                                   ***CONTACT MANAGER PROJECT***
+contact(name,surname,phone(unique))
+project konsoldan boshqariladigan bo'lishi kerak.
+yangi contact qo'shilganidan keyin consolga xabar chiqaring.
+contactni o'chirganiingzidan keyin consolga xabar chiqaring.
+agar contact topilmasa "contact yo'qku degan xabar chiqaring"
+                                                               **MENU**
+1.add contact
+  enter name:
+  enter surname:
+  enter phone:
+2.contact list
+  name,surname,phone
+3.delate contact
+  enter phone:
+4.search contact by(name,surname,phone)
+ query:
+0.exit
+
+
+
